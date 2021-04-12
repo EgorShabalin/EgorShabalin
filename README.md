@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Egor
 - 👀 I’m interested in Python development, software and web apps and services
 - 🌱 I’m currently learning Python, Django
-- 💞️ I’m looking to collaborate on different learning activities
 - 📫 How to reach me: egor.shabalin.wd@gmail.com
 
 <!---
