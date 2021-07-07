@@ -1,5 +1,5 @@
-I’m interested in Python development, software and web apps and services.
-I’m currently learning Python, Django, JS, Java.
+I’m interested in creating web apps and services with Python.
+I’m currently learning Python and Django framework.
 
 Email: egor.shabalin.wd@gmail.com
 Telegram: @BruqwaWD
