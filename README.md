@@ -1,4 +1,4 @@
-I’m interested in creating web apps and services with Python.
+Let's learn something new today!
 
 Email: egor.shabalin.wd@gmail.com
 Telegram: @BruqwaWD
