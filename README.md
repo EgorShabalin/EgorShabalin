@@ -1,7 +1,8 @@
 #### Hi there 👋
 
 ## My name is Egor Shabalin.
-## I am a Python developer. I love to make webservices and learn new things. Some info about me here:
+## I am a Python developer.
+## I love to make webservices and learn new things. Some info about me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Egor_Shabalin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egor-shabalin-python-developer/)](https://www.linkedin.com/in/egor-shabalin-python-developer/)
 
