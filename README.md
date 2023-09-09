@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Egor_Shabalin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egor-shabalin-python-developer/)](https://www.linkedin.com/in/egor-shabalin-python-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-egor.shabalin.wd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egor.shabalin.wd@gmail.com)](mailto:egor.shabalin.wd@gmail.com)
 
-[![Codewars Badge](https://www.codewars.com/users/Bruqwa/badges/small)](https://www.codewars.com/users/Bruqwa/badges/small)
+[![Codewars Badge](https://www.codewars.com/users/EgorShabalin/badges/small)](https://www.codewars.com/users/EgorShabalin/badges/small)
 
 
 ### ⚡ Technologies
