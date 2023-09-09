@@ -4,10 +4,10 @@
 ##### I am a Python developer and I am always open for new knoledge.
 ##### I love to make webservices and learn new things. Some info about me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Egor_Shabalin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egor-shabalin-python-developer/)](https://www.linkedin.com/in/egor-shabalin-python-developer/)
-[![Gmail Badge](https://img.shields.io/badge/-egor.shabalin.wd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egor.shabalin.wd@gmail.com)](mailto:egor.shabalin.wd@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Egor_Shabalin-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/egor-shabalin-python-developer/)](https://www.linkedin.com/in/egor-shabalin-python-developer/)
+[![Gmail Badge](https://img.shields.io/badge/-egor.shabalin.wd@gmail.com-c14438?style=flat-square&logo=Gmail&link=mailto:egor.shabalin.wd@gmail.com)](mailto:egor.shabalin.wd@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Egor_Shabalin-black?style=flat-square&logo=telegram&link=https://t.me/BruqwaWD)](https://t.me/BruqwaWD)
-[![Facebook Badge](https://img.shields.io/badge/Egor_Shabalin-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/egor.shabalin.wd)](https://www.facebook.com/egor.shabalin.wd)
+[![Facebook Badge](https://img.shields.io/badge/Egor_Shabalin-1877F2?style=flat-square&logo=facebook&link=https://www.facebook.com/egor.shabalin.wd)](https://www.facebook.com/egor.shabalin.wd)
 
 [![Codewars Badge](https://www.codewars.com/users/EgorShabalin/badges/small)](https://www.codewars.com/users/EgorShabalin/badges/small)
 
