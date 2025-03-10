@@ -9,8 +9,6 @@
 [![Telegram Badge](https://img.shields.io/badge/Egor_Shabalin-black?style=flat-square&logo=telegram&link=https://t.me/BruqwaWD)](https://t.me/BruqwaWD)
 [![Facebook Badge](https://img.shields.io/badge/Egor_Shabalin-black?style=flat-square&logo=facebook&link=https://www.facebook.com/egor.shabalin.wd)](https://www.facebook.com/egor.shabalin.wd)
 
-// [![Codewars Badge](https://www.codewars.com/users/EgorShabalin/badges/small)](https://www.codewars.com/users/EgorShabalin)
-
 
 ### ⚡ Technologies
 
