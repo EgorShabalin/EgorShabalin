@@ -2,7 +2,8 @@
 
 #### Hi there!
 ##### I am a Python developer and I am always open for new connections and new knowledge.
-##### I love to make webservices and learn new things. Some info about me here:
+##### I love to make webservices and learn new things.
+##### Some info about me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Egor_Shabalin-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/egor-shabalin-python-developer/)](https://www.linkedin.com/in/egor-shabalin-python-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-egor.shabalin.wd@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:egor.shabalin.wd@gmail.com)](mailto:egor.shabalin.wd@gmail.com)
