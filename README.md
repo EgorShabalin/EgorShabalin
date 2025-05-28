@@ -9,9 +9,9 @@
 ### ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
