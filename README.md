@@ -1,4 +1,6 @@
-### Egor Shabalin
+## Egor Shabalin
+
+### ☎️ Contacts
 
 [![Linkedin Badge](https://img.shields.io/badge/-Egor_Shabalin-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/egor-shabalin-python-developer/)](https://www.linkedin.com/in/egor-shabalin-python-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-egor.shabalin.wd@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:egor.shabalin.wd@gmail.com)](mailto:egor.shabalin.wd@gmail.com)
