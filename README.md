@@ -2,6 +2,7 @@
 
 ### ☎️ Contacts
 
+[![LinkedIn](https://img.shields.io/badge/Egor%20Shabalin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 [![LinkedIn Badge](https://img.shields.io/badge/Egor_Shabalin-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-shabalin-python-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-egor.shabalin.wd@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:egor.shabalin.wd@gmail.com)](mailto:egor.shabalin.wd@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Egor_Shabalin-black?style=flat-square&logo=telegram&link=https://t.me/DevSquadSpace)](https://t.me/DevSquadSpace)
