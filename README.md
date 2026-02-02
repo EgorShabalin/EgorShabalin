@@ -22,3 +22,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
+![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery)
